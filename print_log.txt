@@ -1,0 +1,1397 @@
+2025-10-31 11:09:03 CMD: echo 'TESTE DE LOG' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-11 (0 file(s))
+
+2025-10-31 11:09:42 CMD: echo 'TESTE INTEGRAÇÃO COMPLETA' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-12 (0 file(s))
+
+2025-10-31 11:24:05 CMD: echo 'TESTE INTEGRAÇÃO COMPLETA' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-14 (0 file(s))
+
+2025-10-31 11:25:36 CMD: echo 'TESTE INTEGRAÇÃO COMPLETA' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-15 (0 file(s))
+
+2025-10-31 11:32:42 CMD: echo 'TESTE INTEGRACAO COMPLETA' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-16 (0 file(s))
+
+2025-10-31 12:09:09 CMD: echo 'MINHA LIVRARIA LTDA     
+        CUPOM FISCAL         
+==============================
+
+No Venda: 22
+Data: 31/10/2025 15:09:08
+Cliente: Thyerre Sampaio
+------------------------------
+
+ITENS:
+O PEQUENO PRINCIPE - ANTOIN
+  1 x R$ 25.00
+  R$ 25.00
+
+------------------------------
+Subtotal: R$ 25.00
+TOTAL: R$ 25.00
+
+------------------------------
+PAGAMENTO:
+PIX: R$ 25.00
+
+------------------------------
+NFC-e No: 1071
+Serie: 1
+
+
+
+     Obrigado pela compra!    
+==============================' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-17 (0 file(s))
+
+2025-11-03 12:27:42 CMD: echo 'TESTE DE IMPRESSÃO DIRETA' | lp
+STATUS: 0
+OUTPUT:
+request id is 71840-20 (0 file(s))
+
+2025-11-03 12:29:13 CMD: echo 'TESTE DO CONTAINER' | lp
+STATUS: 0
+OUTPUT:
+request id is 71840-21 (0 file(s))
+
+2025-11-03 12:29:53 CMD: echo 'MINHA LIVRARIA LTDA     
+        CUPOM FISCAL         
+==============================
+
+No Venda: 5
+Data: 03/11/2025 15:29:53
+Cliente: Thyerre Sampaio
+------------------------------
+
+ITENS:
+DOM CASMURRO - MACHADO DE AS
+  1 x R$ 40.00
+  R$ 40.00
+
+------------------------------
+Subtotal: R$ 40.00
+TOTAL: R$ 40.00
+
+------------------------------
+PAGAMENTO:
+PIX: R$ 40.00
+
+------------------------------
+NFC-e No: 1104
+Serie: 1
+
+
+
+     Obrigado pela compra!    
+==============================' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-22 (0 file(s))
+
+2025-11-03 12:58:29 CMD: echo 'MINHA LIVRARIA LTDA     
+        CUPOM FISCAL         
+==============================
+
+No Venda: 6
+Data: 03/11/2025 15:58:29
+Cliente: Thyerre Sampaio
+------------------------------
+
+ITENS:
+DOM CASMURRO - MACHADO DE AS
+  1 x R$ 40.00
+  R$ 40.00
+
+------------------------------
+Subtotal: R$ 40.00
+TOTAL: R$ 40.00
+
+------------------------------
+PAGAMENTO:
+PIX: R$ 40.00
+
+------------------------------
+NFC-e No: 1105
+Serie: 1
+
+
+
+     Obrigado pela compra!    
+==============================' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-23 (0 file(s))
+
+2025-11-03 16:03:57 CMD: echo 'MINHA LIVRARIA LTDA     
+        CUPOM FISCAL         
+==============================
+
+No Venda: 7
+Data: 03/11/2025 19:03:57
+Cliente: Thyerre Sampaio
+------------------------------
+
+ITENS:
+O PEQUENO PRINCIPE - ANTOIN
+  1 x R$ 30.00
+  R$ 30.00
+
+------------------------------
+Subtotal: R$ 30.00
+TOTAL: R$ 30.00
+
+------------------------------
+PAGAMENTO:
+CARTAO DE DEBITO: R$ 30.00
+
+------------------------------
+NFC-e No: 1106
+Serie: 1
+
+
+
+     Obrigado pela compra!    
+==============================' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-24 (0 file(s))
+
+2025-11-03 16:21:17 CMD: echo 'Casa Arari      
+CASA ARARI LTDA
+CNPJ: 62000159000163
+IE: 750432209
+AVENIDA PRESIDENTE VARGAS, 1000 - CENTRO
+BELEM - PA  CEP: 66000000
+TEL: 9133334444
+--------------------------------
+          CUPOM FISCAL          
+================================
+No VENDA: 8
+DATA: 03/11/2025 19:21:16
+CLIENTE: Thyerre Sampaio
+--------------------------------
+COD  DESCRICAO           QTD  VL UN  VL TOT
+--------------------------------
+0001 DOM CASMURRO - MAC 1,00  40,00   40,00
+--------------------------------
+SUBTOTAL.............: R$ 40,00
+================================
+TOTAL A PAGAR........: R$ 40,00
+================================
+FORMA(S) DE PAGAMENTO:
+  PIX: R$ 40,00
+--------------------------------
+NFC-e No: 1107
+SERIE: 1
+
+*** AMBIENTE DE HOMOLOGACAO ***
+
+--------------------------------
+
+--------------------------------
+OBRIGADO PELA PREFERENCIA!
+Volte sempre :)
+================================' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-25 (0 file(s))
+
+2025-11-03 16:26:50 CMD: echo 'Casa Arari      
+CASA ARARI LTDA
+CNPJ: 62000159000163
+IE: 750432209
+TRAVESSA 14 DE MARCO, 1154 - UMARIZAL
+BELEM - PA  CEP: 66070270
+TEL: 9133334444
+--------------------------------
+          CUPOM FISCAL          
+================================
+No VENDA: 9
+DATA: 03/11/2025 19:26:50
+CLIENTE: Thyerre Sampaio
+--------------------------------
+COD  DESCRICAO           QTD  VL UN  VL TOT
+--------------------------------
+0001 O PEQUENO PRINCIPE 1,00  30,00   30,00
+--------------------------------
+SUBTOTAL.............: R$ 30,00
+================================
+TOTAL A PAGAR........: R$ 30,00
+================================
+FORMA(S) DE PAGAMENTO:
+  PIX: R$ 30,00
+--------------------------------
+NFC-e No: 1108
+SERIE: 1
+
+*** AMBIENTE DE HOMOLOGACAO ***
+
+--------------------------------
+
+--------------------------------
+OBRIGADO PELA PREFERENCIA!
+Volte sempre :)
+================================' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-26 (0 file(s))
+
+2025-11-03 16:33:33 CMD: echo 'Casa Arari      
+CASA ARARI LTDA
+CNPJ: 62000159000163
+IE: 750432209
+TRAVESSA 14 DE MARCO, 1154 - UMARIZAL
+BELEM - PA  CEP: 66055490
+TEL: 9133334444
+--------------------------------
+          CUPOM FISCAL          
+================================
+No VENDA: 10
+DATA: 03/11/2025 19:33:33
+CLIENTE: Thyerre Sampaio
+--------------------------------
+COD  DESCRICAO           QTD  VL UN  VL TOT
+--------------------------------
+0001 O PEQUENO PRINCIPE 1,00  30,00   30,00
+--------------------------------
+SUBTOTAL.............: R$ 30,00
+================================
+TOTAL A PAGAR........: R$ 30,00
+================================
+FORMA(S) DE PAGAMENTO:
+  PIX: R$ 30,00
+--------------------------------
+NFC-e No: 1109
+SERIE: 1
+
+*** EMITIDA EM CONTINGENCIA ***
+SEM COMUNICACAO COM A SEFAZ
+
+*** AMBIENTE DE HOMOLOGACAO ***
+
+--------------------------------
+
+--------------------------------
+OBRIGADO PELA PREFERENCIA!
+Volte sempre :)
+================================' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-27 (0 file(s))
+
+2025-11-03 16:44:41 CMD: echo 'Casa Arari      
+CASA ARARI LTDA
+CNPJ: 62000159000163
+IE: 750432209
+TRAVESSA 14 DE MARCO, 1154 - UMARIZAL
+BELEM - PA  CEP: 66055490
+TEL: 9133334444
+--------------------------------
+          CUPOM FISCAL          
+================================
+No VENDA: 11
+DATA: 03/11/2025 19:44:40
+CLIENTE: Thyerre Sampaio
+CPF/CNPJ: 03400893269
+--------------------------------
+COD  DESCRICAO           QTD  VL UN  VL TOT
+--------------------------------
+0001 DOM CASMURRO - MAC 1,00  40,00   40,00
+--------------------------------
+SUBTOTAL.............: R$ 40,00
+================================
+TOTAL A PAGAR........: R$ 40,00
+================================
+FORMA(S) DE PAGAMENTO:
+  PIX: R$ 40,00
+--------------------------------
+NFC-e No: 1110
+SERIE: 1
+
+*** AMBIENTE DE HOMOLOGACAO ***
+
+--------------------------------
+
+--------------------------------
+OBRIGADO PELA PREFERENCIA!
+Volte sempre :)
+================================' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-28 (0 file(s))
+
+2025-11-03 18:16:24 CMD: echo '        *** FECHAMENTO DE CAIXA ***
+DATA: 03/11/2025 21:16
+------------------------------------------
+TOTAL DE VENDAS........:     9
+VENDAS FINALIZADAS.....:     9
+VENDAS CANCELADAS......:     0
+------------------------------------------
+TOTAL DINHEIRO.........: R$ 0,00
+TOTAL CARTÃO...........: R$ 0,00
+TOTAL PIX..............: R$ 0,00
+------------------------------------------
+TOTAL GERAL............: R$ 320,00
+==========================================
+
+USUÁRIO: Mossie Huel
+FECHAMENTO Nº: 7BF2AF76-E02F-4B12-BAC0-6CDB95E53AC1
+
+Assinatura: __________________________
+
+
+          *** FIM DO RELATÓRIO ***
+
+
+
+
+' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-29 (0 file(s))
+
+2025-11-03 18:19:14 CMD: echo '        *** FECHAMENTO DE CAIXA ***
+DATA: 03/11/2025 21:19
+------------------------------------------
+TOTAL DE VENDAS........:     9
+VENDAS FINALIZADAS.....:     9
+VENDAS CANCELADAS......:     0
+------------------------------------------
+TOTAL DINHEIRO.........: R$ 0,00
+TOTAL CARTÃO...........: R$ 0,00
+TOTAL PIX..............: R$ 0,00
+------------------------------------------
+TOTAL GERAL............: R$ 320,00
+==========================================
+
+USUÁRIO: Mossie Huel
+FECHAMENTO Nº: B0FDFB46-6E6D-44FC-9C5E-260D21F87246
+
+Assinatura: __________________________
+
+
+          *** FIM DO RELATÓRIO ***
+
+
+
+
+' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-30 (0 file(s))
+
+2025-11-03 18:24:37 CMD: echo '        *** FECHAMENTO DE CAIXA ***
+DATA: 03/11/2025 21:24
+------------------------------------------
+TOTAL DE VENDAS........:     9
+VENDAS FINALIZADAS.....:     9
+VENDAS CANCELADAS......:     0
+------------------------------------------
+TOTAL DINHEIRO.........: R$ 0,00
+TOTAL CARTAO...........: R$ 0,00
+TOTAL PIX..............: R$ 0,00
+------------------------------------------
+TOTAL GERAL............: R$ 320,00
+==========================================
+
+USUARIO: Mossie Huel
+FECHAMENTO No: BD6C4682-27C2-4B2A-B11D-BF70FA4775F7
+
+Assinatura: __________________________
+
+
+          *** FIM DO RELATORIO ***
+
+
+
+
+' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-31 (0 file(s))
+
+2025-11-03 18:28:35 CMD: echo '     Casa Arari     
+CASA ARARI LTDA
+CNPJ: 62000159000163
+BELEM - PA
+--------------------------------
+      FECHAMENTO DE CAIXA       
+================================
+Operador: Mossie Huel
+Caixa: PDV-01
+Abertura: 03/11/2025 00:00
+Fechamento: 03/11/2025 23:59
+--------------------------------
+TOTAL DE VENDAS........: R$ 320,00
+DESCONTOS..............: R$ 0,00
+CANCELAMENTOS..........: R$ 0,00
+--------------------------------
+VENDAS LIQUIDAS........: R$ 320,00
+================================
+FORMAS DE PAGAMENTO:
+  PIX                  R$   250,00
+  DINHEIRO             R$    50,00
+  CARTAO DE DEBITO    R$    30,00
+--------------------------------
+TOTAL RECEBIDO.........: R$ 330,00
+================================
+MOVIMENTACOES:
+  Saldo inicial........: R$ 0,00
+  Suprimentos..........: R$ 0,00
+  Sangrias.............: R$ 0,00
+--------------------------------
+SALDO FINAL ESPERADO...: R$ 330,00
+================================
+VALOR CONTADO..........: R$ 330,00
+DIFERENCA..............: R$ 0,00
+================================
+OBSERVACOES:
+Relatorio gerado automaticamente as 21:28:35
+--------------------------------
+
+Ass. Operador: ___________
+Ass. Gerente:  ___________
+================================
+        FIM DO RELATORIO        
+================================
+
+
+' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-32 (0 file(s))
+
+2025-11-04 17:53:48 CMD: echo 'Casa Arari      
+CASA ARARI LTDA
+CNPJ: 62000159000163
+IE: 750432209
+TRAVESSA 14 DE MARCO, 1154 - UMARIZAL
+BELEM - PA  CEP: 66055490
+TEL: 9133334444
+--------------------------------
+          CUPOM FISCAL          
+================================
+No VENDA: 1
+DATA: 04/11/2025 20:53:47
+CLIENTE: Thyerre Sampaio
+CPF/CNPJ: 03400893269
+--------------------------------
+COD  DESCRICAO           QTD  VL UN  VL TOT
+--------------------------------
+0001 O PEQUENO PRINCIPE 1,00  30,00   30,00
+--------------------------------
+SUBTOTAL.............: R$ 27,00
+================================
+TOTAL A PAGAR........: R$ 27,00
+================================
+FORMA(S) DE PAGAMENTO:
+  DINHEIRO: R$ 27,00
+--------------------------------
+NFC-e No: 1200
+SERIE: 1
+
+*** EMITIDA EM CONTINGENCIA ***
+SEM COMUNICACAO COM A SEFAZ
+
+*** AMBIENTE DE HOMOLOGACAO ***
+
+--------------------------------
+
+--------------------------------
+OBRIGADO PELA PREFERENCIA!
+Volte sempre :)
+================================' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-33 (0 file(s))
+
+2025-11-04 18:05:08 CMD: echo 'Casa Arari      
+CASA ARARI LTDA
+CNPJ: 62000159000163
+IE: 750432209
+TRAVESSA 14 DE MARCO, 1154 - UMARIZAL
+BELEM - PA  CEP: 66055490
+TEL: 9133334444
+--------------------------------
+          CUPOM FISCAL          
+================================
+No VENDA: 2
+DATA: 04/11/2025 21:05:07
+CLIENTE: Thyerre Sampaio
+CPF/CNPJ: 03400893269
+--------------------------------
+COD  DESCRICAO           QTD  VL UN  VL TOT
+--------------------------------
+0001 O PEQUENO PRINCIPE 1,00  30,00   30,00
+--------------------------------
+SUBTOTAL.............: R$ 30,00
+================================
+TOTAL A PAGAR........: R$ 30,00
+================================
+FORMA(S) DE PAGAMENTO:
+  PIX: R$ 30,00
+--------------------------------
+NFC-e No: 1201
+SERIE: 1
+
+*** AMBIENTE DE HOMOLOGACAO ***
+
+--------------------------------
+
+--------------------------------
+OBRIGADO PELA PREFERENCIA!
+Volte sempre :)
+================================' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-34 (0 file(s))
+
+2025-11-04 18:05:37 CMD: echo '     Casa Arari     
+CASA ARARI LTDA
+CNPJ: 62000159000163
+BELEM - PA
+--------------------------------
+      FECHAMENTO DE CAIXA       
+================================
+Operador: Miss Elouise Rutherford PhD
+Caixa: PDV-01
+Abertura: 04/11/2025 00:00
+Fechamento: 04/11/2025 23:59
+--------------------------------
+TOTAL DE VENDAS........: R$ 30,00
+DESCONTOS..............: R$ 0,00
+CANCELAMENTOS..........: R$ 0,00
+--------------------------------
+VENDAS LIQUIDAS........: R$ 30,00
+================================
+FORMAS DE PAGAMENTO:
+  PIX                  R$    30,00
+--------------------------------
+TOTAL RECEBIDO.........: R$ 30,00
+================================
+MOVIMENTACOES:
+  Saldo inicial........: R$ 0,00
+  Suprimentos..........: R$ 0,00
+  Sangrias.............: R$ 0,00
+--------------------------------
+SALDO FINAL ESPERADO...: R$ 30,00
+================================
+VALOR CONTADO..........: R$ 30,00
+DIFERENCA..............: R$ 0,00
+================================
+OBSERVACOES:
+Relatorio gerado automaticamente as 21:05:37
+--------------------------------
+
+Ass. Operador: ___________
+Ass. Gerente:  ___________
+================================
+        FIM DO RELATORIO        
+================================
+
+
+' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-35 (0 file(s))
+
+2025-11-04 21:05:41 CMD: echo 'Casa Arari      
+CASA ARARI LTDA
+CNPJ: 62000159000163
+IE: 750432209
+TRAVESSA 14 DE MARCO, 1154 - UMARIZAL
+BELEM - PA  CEP: 66055490
+TEL: 9133334444
+--------------------------------
+          CUPOM FISCAL          
+================================
+No VENDA: 10
+DATA: 05/11/2025 00:05:39
+CLIENTE: Thyerre Sampaio
+CPF/CNPJ: 03400893269
+--------------------------------
+COD  DESCRICAO           QTD  VL UN  VL TOT
+--------------------------------
+0001 DOM CASMURRO - MAC 1,00  50,00   42,50
+0002 O PEQUENO PRINCIPE 1,00  30,00   27,00
+--------------------------------
+SUBTOTAL.............: R$ 69,50
+================================
+TOTAL A PAGAR........: R$ 69,50
+================================
+FORMA(S) DE PAGAMENTO:
+  PIX: R$ 69,50
+--------------------------------
+NFC-e No: 1202
+SERIE: 1
+
+*** AMBIENTE DE HOMOLOGACAO ***
+
+--------------------------------
+
+--------------------------------
+OBRIGADO PELA PREFERENCIA!
+Volte sempre :)
+================================' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-36 (0 file(s))
+
+2025-11-04 21:09:41 CMD: echo 'Casa Arari      
+CASA ARARI LTDA
+CNPJ: 62000159000163
+IE: 750432209
+TRAVESSA 14 DE MARCO, 1154 - UMARIZAL
+BELEM - PA  CEP: 66055490
+TEL: 9133334444
+--------------------------------
+          CUPOM FISCAL          
+================================
+No VENDA: 11
+DATA: 05/11/2025 00:09:40
+CLIENTE: Thyerre Sampaio
+CPF/CNPJ: 03400893269
+--------------------------------
+COD  DESCRICAO           QTD  VL UN  VL TOT
+--------------------------------
+0001 DOM CASMURRO - MAC 1,00  50,00   50,00
+0002 O PEQUENO PRINCIPE 1,00  30,00   30,00
+--------------------------------
+SUBTOTAL.............: R$ 72,00
+================================
+TOTAL A PAGAR........: R$ 72,00
+================================
+FORMA(S) DE PAGAMENTO:
+  PIX: R$ 72,00
+--------------------------------
+NFC-e No: 1203
+SERIE: 1
+
+*** EMITIDA EM CONTINGENCIA ***
+SEM COMUNICACAO COM A SEFAZ
+
+*** AMBIENTE DE HOMOLOGACAO ***
+
+--------------------------------
+
+--------------------------------
+OBRIGADO PELA PREFERENCIA!
+Volte sempre :)
+================================' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-37 (0 file(s))
+
+2025-11-04 21:50:53 CMD: echo 'Casa Arari      
+CASA ARARI LTDA
+CNPJ: 62000159000163
+IE: 750432209
+TRAVESSA 14 DE MARCO, 1154 - UMARIZAL
+BELEM - PA  CEP: 66055490
+TEL: 9133334444
+--------------------------------
+          CUPOM FISCAL          
+================================
+No VENDA: 13
+DATA: 05/11/2025 00:50:52
+CLIENTE: Thyerre Sampaio
+CPF/CNPJ: 03400893269
+--------------------------------
+COD  DESCRICAO           QTD  VL UN  VL TOT
+--------------------------------
+0001 DOM CASMURRO - MAC 1,00  50,00   45,00
+--------------------------------
+SUBTOTAL.............: R$ 45,00
+================================
+TOTAL A PAGAR........: R$ 45,00
+================================
+FORMA(S) DE PAGAMENTO:
+  PIX: R$ 45,00
+--------------------------------
+NFC-e No: 1204
+SERIE: 1
+
+*** AMBIENTE DE HOMOLOGACAO ***
+
+--------------------------------
+
+--------------------------------
+OBRIGADO PELA PREFERENCIA!
+Volte sempre :)
+================================' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-38 (0 file(s))
+
+2025-11-04 21:51:41 CMD: echo 'Casa Arari      
+CASA ARARI LTDA
+CNPJ: 62000159000163
+IE: 750432209
+TRAVESSA 14 DE MARCO, 1154 - UMARIZAL
+BELEM - PA  CEP: 66055490
+TEL: 9133334444
+--------------------------------
+          CUPOM FISCAL          
+================================
+No VENDA: 14
+DATA: 05/11/2025 00:51:40
+CLIENTE: Thyerre Sampaio
+CPF/CNPJ: 03400893269
+--------------------------------
+COD  DESCRICAO           QTD  VL UN  VL TOT
+--------------------------------
+0001 DOM CASMURRO - MAC 1,00  50,00   45,00
+0002 O PEQUENO PRINCIPE 1,00  30,00   27,00
+--------------------------------
+SUBTOTAL.............: R$ 72,00
+================================
+TOTAL A PAGAR........: R$ 72,00
+================================
+FORMA(S) DE PAGAMENTO:
+  PIX: R$ 72,00
+--------------------------------
+NFC-e No: 1205
+SERIE: 1
+
+*** AMBIENTE DE HOMOLOGACAO ***
+
+--------------------------------
+
+--------------------------------
+OBRIGADO PELA PREFERENCIA!
+Volte sempre :)
+================================' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-39 (0 file(s))
+
+2025-11-04 23:30:53 CMD: echo 'Casa Arari      
+CASA ARARI LTDA
+CNPJ: 62000159000163
+IE: 750432209
+TRAVESSA 14 DE MARCO, 1154 - UMARIZAL
+BELEM - PA  CEP: 66055490
+TEL: 9133334444
+--------------------------------
+          CUPOM FISCAL          
+================================
+No VENDA: 1
+DATA: 05/11/2025 02:30:51
+CLIENTE: Thyerre Sampaio
+CPF/CNPJ: 03400893269
+--------------------------------
+COD  DESCRICAO           QTD  VL UN  VL TOT
+--------------------------------
+0001 DOM CASMURRO - MAC 1,00  50,00   50,00
+--------------------------------
+SUBTOTAL.............: R$ 50,00
+================================
+TOTAL A PAGAR........: R$ 50,00
+================================
+FORMA(S) DE PAGAMENTO:
+  PIX: R$ 50,00
+--------------------------------
+NFC-e No: 1250
+SERIE: 1
+
+*** AMBIENTE DE HOMOLOGACAO ***
+
+--------------------------------
+
+--------------------------------
+OBRIGADO PELA PREFERENCIA!
+Volte sempre :)
+================================' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-40 (0 file(s))
+
+2025-11-05 00:01:36 CMD: echo 'Casa Arari      
+CASA ARARI LTDA
+CNPJ: 62000159000163
+IE: 750432209
+TRAVESSA 14 DE MARCO, 1154 - UMARIZAL
+BELEM - PA  CEP: 66055490
+TEL: 9133334444
+--------------------------------
+          CUPOM FISCAL          
+================================
+No VENDA: 2
+DATA: 05/11/2025 03:01:33
+CLIENTE: Thyerre Sampaio
+CPF/CNPJ: 03400893269
+--------------------------------
+COD  DESCRICAO           QTD  VL UN  VL TOT
+--------------------------------
+0001 DOM CASMURRO - MAC 1,00  50,00   50,00
+--------------------------------
+SUBTOTAL.............: R$ 50,00
+================================
+TOTAL A PAGAR........: R$ 50,00
+================================
+FORMA(S) DE PAGAMENTO:
+  PIX: R$ 50,00
+--------------------------------
+NFC-e No: 1251
+SERIE: 1
+
+*** AMBIENTE DE HOMOLOGACAO ***
+
+--------------------------------
+
+--------------------------------
+OBRIGADO PELA PREFERENCIA!
+Volte sempre :)
+================================' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-41 (0 file(s))
+
+2025-11-05 00:32:15 CMD: echo 'Casa Arari      
+CASA ARARI LTDA
+CNPJ: 62000159000163
+IE: 750432209
+TRAVESSA 14 DE MARCO, 1154 - UMARIZAL
+BELEM - PA  CEP: 66055490
+TEL: 9133334444
+--------------------------------
+          CUPOM FISCAL          
+================================
+No VENDA: 3
+DATA: 05/11/2025 03:32:14
+CLIENTE: Thyerre Sampaio
+CPF/CNPJ: 03400893269
+--------------------------------
+COD  DESCRICAO           QTD  VL UN  VL TOT
+--------------------------------
+0001 O PEQUENO PRINCIPE 1,00  30,00   30,00
+--------------------------------
+SUBTOTAL.............: R$ 30,00
+================================
+TOTAL A PAGAR........: R$ 30,00
+================================
+FORMA(S) DE PAGAMENTO:
+  DINHEIRO: R$ 30,00
+--------------------------------
+NFC-e No: 1252
+SERIE: 1
+
+*** AMBIENTE DE HOMOLOGACAO ***
+
+--------------------------------
+
+--------------------------------
+OBRIGADO PELA PREFERENCIA!
+Volte sempre :)
+================================' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-42 (0 file(s))
+
+2025-11-05 00:43:57 CMD: echo 'Casa Arari      
+CASA ARARI LTDA
+CNPJ: 62000159000163
+IE: 750432209
+TRAVESSA 14 DE MARCO, 1154 - UMARIZAL
+BELEM - PA  CEP: 66055490
+TEL: 9133334444
+--------------------------------
+          CUPOM FISCAL          
+================================
+No VENDA: 4
+DATA: 05/11/2025 03:43:56
+CLIENTE: Thyerre Sampaio
+CPF/CNPJ: 03400893269
+--------------------------------
+COD  DESCRICAO           QTD  VL UN  VL TOT
+--------------------------------
+0001 O PEQUENO PRINCIPE 1,00  30,00   30,00
+--------------------------------
+SUBTOTAL.............: R$ 30,00
+================================
+TOTAL A PAGAR........: R$ 30,00
+================================
+FORMA(S) DE PAGAMENTO:
+  PIX: R$ 30,00
+--------------------------------
+NFC-e No: 1253
+SERIE: 1
+
+*** AMBIENTE DE HOMOLOGACAO ***
+
+--------------------------------
+
+--------------------------------
+OBRIGADO PELA PREFERENCIA!
+Volte sempre :)
+================================' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-43 (0 file(s))
+
+2025-11-05 00:49:02 CMD: echo 'Casa Arari      
+CASA ARARI LTDA
+CNPJ: 62000159000163
+IE: 750432209
+TRAVESSA 14 DE MARCO, 1154 - UMARIZAL
+BELEM - PA  CEP: 66055490
+TEL: 9133334444
+--------------------------------
+          CUPOM FISCAL          
+================================
+No VENDA: 5
+DATA: 05/11/2025 03:49:00
+CLIENTE: Thyerre Sampaio
+CPF/CNPJ: 03400893269
+--------------------------------
+COD  DESCRICAO           QTD  VL UN  VL TOT
+--------------------------------
+0001 DOM CASMURRO - MAC 1,00  50,00   50,00
+--------------------------------
+SUBTOTAL.............: R$ 50,00
+================================
+TOTAL A PAGAR........: R$ 50,00
+================================
+FORMA(S) DE PAGAMENTO:
+  PIX: R$ 50,00
+--------------------------------
+NFC-e No: 1254
+SERIE: 1
+
+*** AMBIENTE DE HOMOLOGACAO ***
+
+--------------------------------
+
+--------------------------------
+OBRIGADO PELA PREFERENCIA!
+Volte sempre :)
+================================' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-44 (0 file(s))
+
+2025-11-05 00:53:41 CMD: echo 'Casa Arari      
+CASA ARARI LTDA
+CNPJ: 62000159000163
+IE: 750432209
+TRAVESSA 14 DE MARCO, 1154 - UMARIZAL
+BELEM - PA  CEP: 66055490
+TEL: 9133334444
+--------------------------------
+      CANCELAMENTO DE VENDA      
+================================
+No VENDA: 5
+DATA CANCELAMENTO: 2025-11-05 03:53:41
+CLIENTE: Thyerre Sampaio
+--------------------------------
+CHAVE ACESSO: 15251162000159000163550010000012541069080173
+PROTOC. CANCELAMENTO: N/A
+JUSTIFICATIVA: Cliente desistiu da compra
+--------------------------------
+ESTA VENDA FOI CANCELADA
+SERVICO ANULADO PELO EMITENTE
+================================' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-45 (0 file(s))
+
+2025-11-05 05:23:20 CMD: echo 'Casa Arari      
+CASA ARARI LTDA
+CNPJ: 62000159000163
+IE: 750432209
+TRAVESSA 14 DE MARCO, 1154 - UMARIZAL
+BELEM - PA  CEP: 66055490
+TEL: 9133334444
+--------------------------------
+          CUPOM FISCAL          
+================================
+No VENDA: 1
+DATA: 05/11/2025 08:23:18
+CLIENTE: Thyerre Sampaio
+CPF/CNPJ: 03400893269
+--------------------------------
+COD  DESCRICAO           QTD  VL UN  VL TOT
+--------------------------------
+0001 DOM CASMURRO - MAC 1,00  50,00   50,00
+--------------------------------
+SUBTOTAL.............: R$ 50,00
+================================
+TOTAL A PAGAR........: R$ 50,00
+================================
+FORMA(S) DE PAGAMENTO:
+  PIX: R$ 50,00
+--------------------------------
+NFC-e No: 1260
+SERIE: 1
+
+*** AMBIENTE DE HOMOLOGACAO ***
+
+--------------------------------
+
+--------------------------------
+OBRIGADO PELA PREFERENCIA!
+Volte sempre :)
+================================' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-46 (0 file(s))
+
+2025-11-05 05:25:16 CMD: echo 'Casa Arari      
+CASA ARARI LTDA
+CNPJ: 62000159000163
+IE: 750432209
+TRAVESSA 14 DE MARCO, 1154 - UMARIZAL
+BELEM - PA  CEP: 66055490
+TEL: 9133334444
+--------------------------------
+          CUPOM FISCAL          
+================================
+No VENDA: 2
+DATA: 05/11/2025 08:25:16
+CLIENTE: Thyerre Sampaio
+CPF/CNPJ: 03400893269
+--------------------------------
+COD  DESCRICAO           QTD  VL UN  VL TOT
+--------------------------------
+0001 O PEQUENO PRINCIPE 1,00  30,00   30,00
+--------------------------------
+SUBTOTAL.............: R$ 30,00
+================================
+TOTAL A PAGAR........: R$ 30,00
+================================
+FORMA(S) DE PAGAMENTO:
+  PIX: R$ 30,00
+--------------------------------
+NFC-e No: 1261
+SERIE: 1
+
+*** EMITIDA EM CONTINGENCIA ***
+SEM COMUNICACAO COM A SEFAZ
+
+*** AMBIENTE DE HOMOLOGACAO ***
+
+--------------------------------
+
+--------------------------------
+OBRIGADO PELA PREFERENCIA!
+Volte sempre :)
+================================' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-47 (0 file(s))
+
+2025-11-05 05:37:23 CMD: echo 'Casa Arari      
+CASA ARARI LTDA
+CNPJ: 62000159000163
+IE: 750432209
+TRAVESSA 14 DE MARCO, 1154 - UMARIZAL
+BELEM - PA  CEP: 66055490
+TEL: 9133334444
+--------------------------------
+          CUPOM FISCAL          
+================================
+No VENDA: 3
+DATA: 05/11/2025 08:37:21
+CLIENTE: Thyerre Sampaio
+CPF/CNPJ: 03400893269
+--------------------------------
+COD  DESCRICAO           QTD  VL UN  VL TOT
+--------------------------------
+0001 DOM CASMURRO - MAC 1,00  50,00   50,00
+--------------------------------
+SUBTOTAL.............: R$ 50,00
+================================
+TOTAL A PAGAR........: R$ 50,00
+================================
+FORMA(S) DE PAGAMENTO:
+  PIX: R$ 50,00
+--------------------------------
+NFC-e No: 1262
+SERIE: 1
+
+*** AMBIENTE DE HOMOLOGACAO ***
+
+--------------------------------
+
+--------------------------------
+OBRIGADO PELA PREFERENCIA!
+Volte sempre :)
+================================' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-48 (0 file(s))
+
+2025-11-05 05:38:37 CMD: echo 'Casa Arari      
+CASA ARARI LTDA
+CNPJ: 62000159000163
+IE: 750432209
+TRAVESSA 14 DE MARCO, 1154 - UMARIZAL
+BELEM - PA  CEP: 66055490
+TEL: 9133334444
+--------------------------------
+          CUPOM FISCAL          
+================================
+No VENDA: 4
+DATA: 05/11/2025 08:38:37
+CLIENTE: Thyerre Sampaio
+CPF/CNPJ: 03400893269
+--------------------------------
+COD  DESCRICAO           QTD  VL UN  VL TOT
+--------------------------------
+0001 1984 - GEORGE ORWE 1,00  40,00   40,00
+--------------------------------
+SUBTOTAL.............: R$ 40,00
+================================
+TOTAL A PAGAR........: R$ 40,00
+================================
+FORMA(S) DE PAGAMENTO:
+  PIX: R$ 40,00
+--------------------------------
+NFC-e No: 1263
+SERIE: 1
+
+*** EMITIDA EM CONTINGENCIA ***
+SEM COMUNICACAO COM A SEFAZ
+
+*** AMBIENTE DE HOMOLOGACAO ***
+
+--------------------------------
+
+--------------------------------
+OBRIGADO PELA PREFERENCIA!
+Volte sempre :)
+================================' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-49 (0 file(s))
+
+2025-11-05 05:51:31 CMD: echo 'Casa Arari      
+CASA ARARI LTDA
+CNPJ: 62000159000163
+IE: 750432209
+TRAVESSA 14 DE MARCO, 1154 - UMARIZAL
+BELEM - PA  CEP: 66055490
+TEL: 9133334444
+--------------------------------
+          CUPOM FISCAL          
+================================
+No VENDA: 5
+DATA: 05/11/2025 08:51:30
+CLIENTE: Thyerre Sampaio
+CPF/CNPJ: 03400893269
+--------------------------------
+COD  DESCRICAO           QTD  VL UN  VL TOT
+--------------------------------
+0001 1984 - GEORGE ORWE 1,00  40,00   40,00
+--------------------------------
+SUBTOTAL.............: R$ 40,00
+================================
+TOTAL A PAGAR........: R$ 40,00
+================================
+FORMA(S) DE PAGAMENTO:
+  PIX: R$ 40,00
+--------------------------------
+NFC-e No: 1264
+SERIE: 1
+
+*** AMBIENTE DE HOMOLOGACAO ***
+
+--------------------------------
+
+--------------------------------
+OBRIGADO PELA PREFERENCIA!
+Volte sempre :)
+================================' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-50 (0 file(s))
+
+2025-11-05 05:52:12 CMD: echo 'Casa Arari      
+CASA ARARI LTDA
+CNPJ: 62000159000163
+IE: 750432209
+TRAVESSA 14 DE MARCO, 1154 - UMARIZAL
+BELEM - PA  CEP: 66055490
+TEL: 9133334444
+--------------------------------
+          CUPOM FISCAL          
+================================
+No VENDA: 6
+DATA: 05/11/2025 08:52:12
+CLIENTE: Thyerre Sampaio
+CPF/CNPJ: 03400893269
+--------------------------------
+COD  DESCRICAO           QTD  VL UN  VL TOT
+--------------------------------
+0001 DOM CASMURRO - MAC 1,00  50,00   50,00
+--------------------------------
+SUBTOTAL.............: R$ 50,00
+================================
+TOTAL A PAGAR........: R$ 50,00
+================================
+FORMA(S) DE PAGAMENTO:
+  PIX: R$ 50,00
+--------------------------------
+NFC-e No: 1265
+SERIE: 1
+
+*** EMITIDA EM CONTINGENCIA ***
+SEM COMUNICACAO COM A SEFAZ
+
+*** AMBIENTE DE HOMOLOGACAO ***
+
+--------------------------------
+
+--------------------------------
+OBRIGADO PELA PREFERENCIA!
+Volte sempre :)
+================================' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-51 (0 file(s))
+
+2025-11-05 05:59:46 CMD: echo 'Casa Arari      
+CASA ARARI LTDA
+CNPJ: 62000159000163
+IE: 750432209
+TRAVESSA 14 DE MARCO, 1154 - UMARIZAL
+BELEM - PA  CEP: 66055490
+TEL: 9133334444
+--------------------------------
+          CUPOM FISCAL          
+================================
+No VENDA: 7
+DATA: 05/11/2025 08:59:46
+CLIENTE: Thyerre Sampaio
+CPF/CNPJ: 03400893269
+--------------------------------
+COD  DESCRICAO           QTD  VL UN  VL TOT
+--------------------------------
+0001 O PEQUENO PRINCIPE 1,00  30,00   30,00
+--------------------------------
+SUBTOTAL.............: R$ 30,00
+================================
+TOTAL A PAGAR........: R$ 30,00
+================================
+FORMA(S) DE PAGAMENTO:
+  PIX: R$ 30,00
+--------------------------------
+NFC-e No: 1266
+SERIE: 1
+
+*** EMITIDA EM CONTINGENCIA ***
+SEM COMUNICACAO COM A SEFAZ
+
+*** AMBIENTE DE HOMOLOGACAO ***
+
+--------------------------------
+
+--------------------------------
+OBRIGADO PELA PREFERENCIA!
+Volte sempre :)
+================================' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-52 (0 file(s))
+
+2025-11-05 06:05:13 CMD: echo 'Casa Arari      
+CASA ARARI LTDA
+CNPJ: 62000159000163
+IE: 750432209
+TRAVESSA 14 DE MARCO, 1154 - UMARIZAL
+BELEM - PA  CEP: 66055490
+TEL: 9133334444
+--------------------------------
+          CUPOM FISCAL          
+================================
+No VENDA: 8
+DATA: 05/11/2025 09:05:12
+CLIENTE: Thyerre Sampaio
+CPF/CNPJ: 03400893269
+--------------------------------
+COD  DESCRICAO           QTD  VL UN  VL TOT
+--------------------------------
+0001 DOM CASMURRO - MAC 1,00  50,00   50,00
+--------------------------------
+SUBTOTAL.............: R$ 50,00
+================================
+TOTAL A PAGAR........: R$ 50,00
+================================
+FORMA(S) DE PAGAMENTO:
+  PIX: R$ 50,00
+--------------------------------
+NFC-e No: 1267
+SERIE: 1
+
+*** EMITIDA EM CONTINGENCIA ***
+SEM COMUNICACAO COM A SEFAZ
+
+*** AMBIENTE DE HOMOLOGACAO ***
+
+--------------------------------
+
+--------------------------------
+OBRIGADO PELA PREFERENCIA!
+Volte sempre :)
+================================' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-53 (0 file(s))
+
+2025-11-05 06:12:07 CMD: echo 'Casa Arari      
+CASA ARARI LTDA
+CNPJ: 62000159000163
+IE: 750432209
+TRAVESSA 14 DE MARCO, 1154 - UMARIZAL
+BELEM - PA  CEP: 66055490
+TEL: 9133334444
+--------------------------------
+          CUPOM FISCAL          
+================================
+No VENDA: 1
+DATA: 05/11/2025 09:12:06
+CLIENTE: Thyerre Sampaio
+CPF/CNPJ: 03400893269
+--------------------------------
+COD  DESCRICAO           QTD  VL UN  VL TOT
+--------------------------------
+0001 DOM CASMURRO - MAC 1,00  50,00   50,00
+--------------------------------
+SUBTOTAL.............: R$ 50,00
+================================
+TOTAL A PAGAR........: R$ 50,00
+================================
+FORMA(S) DE PAGAMENTO:
+  PIX: R$ 50,00
+--------------------------------
+NFC-e No: 1270
+SERIE: 1
+
+*** EMITIDA EM CONTINGENCIA ***
+SEM COMUNICACAO COM A SEFAZ
+
+*** AMBIENTE DE HOMOLOGACAO ***
+
+--------------------------------
+
+--------------------------------
+OBRIGADO PELA PREFERENCIA!
+Volte sempre :)
+================================' | lp -d '71840'
+STATUS: 0
+OUTPUT:
+request id is 71840-54 (0 file(s))
+
